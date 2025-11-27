@@ -16,12 +16,12 @@ Proposta do projeto: (https://youtu.be/Hy_yS9zgyNA?si=XlsMMgBAbWWXU-pv)
 ## Screenshots
 
 <div align="center">
-    <img src="https://imgur.com/TxvVi4v.png" alt="tela" width="750px" height="400px">
+    <img src="https://imgur.com/TxvVi4v.png" alt="tela" width="1278px" height="861px">
 </div>
 
 
 <div align="center">
-    <img src="https://i.imgur.com/1k9clTG.png" alt="tela" width="750px" height="400px">
+    <img src="https://i.imgur.com/1k9clTG.png" alt="tela" width="839px" height="777px">
 </div>
 
 ---
