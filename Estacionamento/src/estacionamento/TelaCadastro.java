@@ -51,7 +51,7 @@ private java.sql.Timestamp getDataHora() {
     // Tive alguns bugs com o horario, o registro de saida marcava uma hora adiantada
     // adicionei o timezone no url do banco e erro parou de ocorrer, mas em outras maquinas mesmo com esse timezone o bug ocorria
     // caso timezone não funcione na sua maquina tambem, descomente a linha abaixo para subtrair 1 hora:
-    cal.add(java.util.Calendar.HOUR_OF_DAY, -1);
+    // cal.add(java.util.Calendar.HOUR_OF_DAY, -1);
     return new java.sql.Timestamp(cal.getTimeInMillis());
 }
 

@@ -73,6 +73,8 @@ CREATE TABLE Carro (
 
 ## Funcionalidades
 
+Comentarios ao longo do código explicam as funções e linhas de raciocínio
+
 **Entrada de Veículos:** Registro automático de data e hora de entrada. (sem tempo de tolerancia)
 
 * **Cálculo de Cobrança:**
